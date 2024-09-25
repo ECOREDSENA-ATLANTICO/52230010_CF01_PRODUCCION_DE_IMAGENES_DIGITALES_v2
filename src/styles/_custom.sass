@@ -1,15 +1,31 @@
+.banner-principal
+  &__img
+    padding-bottom: 0px!important
+    padding-top:0!important
+    @media (min-width: 576px)
+      align-self: end
+  &__row &__img
+    @media (min-width: 576px)
+      padding-right: 0!important
+
+
+
 .banner-principal-decorativo
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 45%
+    left: -2%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 21%
+    right: 19%
 
+.banner-interno
+  .banner-interno__fondo
+    background-image: url(../assets/curso/portada/fondo-banner-secundario.png)!important
+    background-size: cover
 
 @keyframes float1
   0%
@@ -17,3 +33,140 @@
 
   100%
     transform: translateY(0px)
+
+
+
+.blue_icon
+  background-color: #283F65
+  display: inline-block
+  color: #fff
+  padding: 5px 20px
+  position: relative
+  border-top-left-radius: 10px
+  border-bottom-right-radius: 10px
+
+  &:after
+    content: url(../assets/curso/temas/img02.svg)
+    position: absolute
+    right: -8px
+    top: 6px
+
+.img-t
+  height: auto
+  width: auto
+  
+.cajon.color-primario
+    background-color: #F1EBFE
+
+ul.bullets
+  list-style-type: disc
+  margin-left: 15px
+
+ul.red_checks
+    list-style-image: url(../assets/curso/temas/tema2/img02.svg)
+    margin-left: 15px
+
+.slyder-a
+  &__btn--sigt, &__btn--atrs
+    background-color: #283F65
+    background-image: url(../assets/curso/temas/img01.svg)
+
+  &__bullets__item
+    background-color: #D1BCFA
+    &--active
+      background-color: $color-primario
+  
+.bg01
+  background: url(../assets/curso/temas/tema1/img02.jpg) no-repeat
+  background-size: cover
+  .tarjeta
+    background-color: $white
+
+.bg02
+  background: #283F65
+  padding: 2em 18em 2em 4em
+  border-top-left-radius: 2em
+  border-bottom-right-radius: 2em
+  position: relative
+  &:before
+    content: url(../assets/curso/temas/tema1/img19.png)
+    position: absolute
+    left: -20px
+    top: 30%
+  &:after
+    content: url(../assets/curso/temas/tema1/img20.png)
+    position: absolute
+    right: -70px
+    top: -30px
+  p
+    color: $white
+  @media (max-width: $bp-max-lg)
+    padding: 3em
+    &:before, &:after
+      content: " "
+
+.bg03
+  background: url(../assets/curso/temas/tema1/img22.jpg) no-repeat
+  background-size: cover
+
+
+
+.titulo_sexto
+  border-left: 4px solid $color-acento-contenido
+  padding: 5px 0 5px 20px
+  span
+    font-weight: 400
+
+.tabla-a
+  table
+      min-width: auto
+      p  
+        margin-bottom: 0
+      th.white
+        background-color: $white
+        border: 0 none
+        width: 10%
+      td.numbers
+        p
+          color: $color-primario
+          font-weight: bold
+          text-align: center
+
+.slyder-f
+  &__btn
+    i
+      font-size: 1em
+
+.tarjeta
+  &--grisclaro
+    background-color: $color-sistema-h
+  &--gris
+    background-color: $color-sistema-f
+  .big
+    color: #D4D8E0
+    font-size: 6em
+    font-weight: 600
+    margin-bottom: 0
+  a
+    color: $color-primario
+    font-weight: 700
+
+
+.acordion
+  &__activo
+    background-color: #E4D9FD
+  &__accion
+    &__btn
+      &--a
+        background-color: $color-primario
+        i 
+          color: $white
+
+
+.tabla-a 
+  thead
+    color: $white
+    background-color: #283F65
+    border: 0 none
+  td, th 
+    border-color: #283F65
