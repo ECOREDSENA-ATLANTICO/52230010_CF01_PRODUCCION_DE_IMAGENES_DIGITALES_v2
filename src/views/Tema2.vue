@@ -5,11 +5,11 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 2
-        h1 
+        h1(data-aos="fade-right")
           i briefing
       
       .row.mb-5
-        .col-md-7
+        .col-md-7(data-aos="fade-left")
           p David Roca (2007) expresa que el trabajo de la agencia empieza con la entrega del 
             i briefing 
             | por parte del cliente y contiene la siguiente información básica: 
@@ -27,11 +27,11 @@
             i briefing 
             | definitivo para creación. Para profundizar en esta temática consulte:
         
-        .col-md-5
+        .col-md-5(data-aos="fade-right")
           figure
             img(src='@/assets/curso/temas/tema2/img01.png', alt='Imagen Decorativa')
       
-      .row
+      .row(data-aos="fade-up")
         .mx-auto.col-xs-12.col-md-10
           .tarjeta-avatar-b.mb-5
             .tarjeta-avatar-b__img
@@ -54,11 +54,11 @@
         h2.mb-0 Principios en el diseño de un logo
   
       .row.mb-5
-        .col-md-5
+        .col-md-5(data-aos="fade-left")
           figure
             img(src='@/assets/curso/temas/tema2/img05.png', alt='Imagen Decorativa')
       
-        .col-md-7
+        .col-md-7(data-aos="fade-right")
           p Al recibir el 
             i brief 
             | del cliente se establece la estrategia creativa. Cada agencia de publicidad tiene una metodología de trabajo distinta. Algunas agencias adoptan el 
@@ -137,7 +137,7 @@
   
       p Para profundizar en esta temática consulte el ejemplo:
   
-      .row
+      .row(data-aos="fade-up")
         .mx-auto.col-xs-12.col-md-10
           .tarjeta-avatar-b.mb-5
             .tarjeta-avatar-b__img

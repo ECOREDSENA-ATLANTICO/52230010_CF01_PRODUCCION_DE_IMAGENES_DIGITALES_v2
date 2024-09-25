@@ -5,9 +5,9 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 1
-        h1 Tipos de logos
+        h1(data-aos="fade-right") Tipos de logos
       
-      .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+      .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-up")
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img01.jpg')})`}"
         )
@@ -85,11 +85,11 @@
       
       
       .row.mb-5
-        .col-md-9
+        .col-md-9(data-aos="fade-left")
           p Un logotipo efectivo es aquel que es reconocido al instante, genera recordación de marca y es capaz de adaptarse fácilmente en diferentes medios. Esta inmediatez en el reconocimiento es clave para una fuerte identidad de marca.
           p Además, un buen logotipo genera recordación, es decir, deja una impresión duradera en la mente de los consumidores. Esta capacidad de permanecer en la memoria es crucial para construir y mantener la presencia de la marca a lo largo del tiempo.
           p Por último, un logotipo efectivo debe ser adaptable. Esto significa que debe funcionar bien en diferentes medios y tamaños, desde grandes carteles hasta pequeños íconos digitales, manteniendo siempre su integridad y mensaje visual.
-        .col-md-3
+        .col-md-3(data-aos="fade-right")
           figure
             img(src='@/assets/curso/temas/tema1/img10.png', alt='Imagen Decorativa')
   
@@ -97,10 +97,10 @@
       h3.mb-3.blue_icon Caracteristicas
       p El logotipo debe de ser:
       .row.mb-5
-        .col-md-4
+        .col-md-4(data-aos="fade-left")
           figure
             img(src='@/assets/curso/temas/tema1/img09.png', alt='Imagen Decorativa')
-        .col-md-8
+        .col-md-8(data-aos="fade-right")
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
             div(titulo="Simple")
               p La simplicidad en el diseño es la clave para que se reconozca fácilmente, logrando recordación y versatilidad por medio del tiempo. 
@@ -246,10 +246,10 @@
       p Los siguientes pasos conllevan a la creación del logo: 
   
       .row.mb-5
-        .col-md-4
+        .col-md-4(data-aos="fade-left")
           figure
             img.img-t.mx-auto(src='@/assets/curso/temas/tema1/img17.svg', alt='Imagen Decorativa')
-        .col-md-8
+        .col-md-8(data-aos="fade-right")
           SlyderF(columnas="col-lg-6 col-xl-6")
             .tarjeta.tarjeta--grisclaro.p-4 
               h2.big 01
@@ -354,7 +354,7 @@
                   td 
                     p ¿Qué colores identifican su organización y por qué?
   
-      .row
+      .row(data-aos="fade-up")
         .mx-auto.col-xs-12.col-md-10
           .tarjeta-avatar-b.mb-5
             .tarjeta-avatar-b__img
