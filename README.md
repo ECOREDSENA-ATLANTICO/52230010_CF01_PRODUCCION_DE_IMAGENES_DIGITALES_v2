@@ -1,9 +1,7 @@
 # **sena-base-2021 v6.2.1**
 
 ## **Enlace GitHubPages**
-
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
-
+https://ecoredsena-atlantico.github.io/52230010_CF01_PRODUCCION_DE_IMAGENES_DIGITALES_v2/#/
 #
 
 ## **Configuración del proyecto**
