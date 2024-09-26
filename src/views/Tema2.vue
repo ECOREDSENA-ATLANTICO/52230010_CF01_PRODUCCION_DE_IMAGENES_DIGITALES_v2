@@ -142,7 +142,7 @@
             .tarjeta-avatar-b__img
               img.img-t.m-auto(src='@/assets/curso/temas/tema1/img21.svg', alt='Imagen Decorativa')
             .tarjeta.color-primario.row.align-items-center.bg03
-              .col-md-9.mb-3.mb-sm-0.pt-3.pt-md-0
+              .col-lg-9.col-md-8.pt-3.pt-md-0.mb-3.mb-sm-0
                 p.mb-0.text-white 
                   b Muestra de 
                     i Brief 
