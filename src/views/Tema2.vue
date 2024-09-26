@@ -9,7 +9,7 @@
           i briefing
       
       .row.mb-5
-        .col-md-7(data-aos="fade-left")
+        .col-lg-7.col-md-12(data-aos="fade-left")
           p David Roca (2007) expresa que el trabajo de la agencia empieza con la entrega del 
             i briefing 
             | por parte del cliente y contiene la siguiente información básica: 
@@ -27,18 +27,17 @@
             i briefing 
             | definitivo para creación. Para profundizar en esta temática consulte:
         
-        .col-md-5(data-aos="fade-right")
+        .col-lg-5.col-md-8.mx-auto(data-aos="fade-right")
           figure
             img(src='@/assets/curso/temas/tema2/img01.png', alt='Imagen Decorativa')
       
       .row(data-aos="fade-up")
-        .mx-auto.col-xs-12.col-md-10
+        .mx-auto.col-12.col-md-12.col-lg-10
           .tarjeta-avatar-b.mb-5
             .tarjeta-avatar-b__img
               img.img-t.m-auto(src='@/assets/curso/temas/tema1/img21.svg', alt='Imagen Decorativa')
             .tarjeta.color-primario.row.align-items-center.bg03
-              .col-md-9.mb-3.mb-sm-0
-                p.p-2.d-block.d-lg-none
+              .col-md-9.mb-3.mb-sm-0.pt-3.pt-md-0
                 p.mb-0.text-white
                   b Consejos para escribir un 
                     i brief 
@@ -54,11 +53,11 @@
         h2.mb-0 Principios en el diseño de un logo
   
       .row.mb-5
-        .col-md-5(data-aos="fade-left")
+        .col-8.col-md-6.col-lg-5.mx-auto(data-aos="fade-left")
           figure
-            img(src='@/assets/curso/temas/tema2/img05.png', alt='Imagen Decorativa')
+            img.mb-4(src='@/assets/curso/temas/tema2/img05.png', alt='Imagen Decorativa')
       
-        .col-md-7(data-aos="fade-right")
+        .col-md-12.col-lg-7(data-aos="fade-right")
           p Al recibir el 
             i brief 
             | del cliente se establece la estrategia creativa. Cada agencia de publicidad tiene una metodología de trabajo distinta. Algunas agencias adoptan el 
@@ -85,7 +84,7 @@
             | entre otros entre ellos generan el flujo de acciones se pueden consultar en la siguiente figura:
   
       .row.mb-5
-        .col-md-10.mx-auto
+        .col-md-12.col-lg-10.mx-auto
           .titulo_sexto.mb-4(data-aos="fade-right")
               h5.mb-0 Figura 2. 
                 span Briefing Creativo
@@ -94,10 +93,10 @@
             figcaption Nota, SENA (2014)
           
       .row.mb-5
-        .col-md-5
+        .col-lg-5.col-md-8.mx-auto
           figure
-            img(src='@/assets/curso/temas/tema2/img04.png', alt='Imagen Decorativa')
-        .col-md-7
+            img.mb-4.mx-auto(src='@/assets/curso/temas/tema2/img04.png', alt='Imagen Decorativa')
+        .col-lg-7.col-md-12
           .cajon.color-primario.p-4
             ul.bullets
               li 
@@ -137,14 +136,13 @@
   
       p Para profundizar en esta temática consulte el ejemplo:
   
-      .row(data-aos="fade-up")
+      .row(data-aos="fade")
         .mx-auto.col-xs-12.col-md-10
           .tarjeta-avatar-b.mb-5
             .tarjeta-avatar-b__img
               img.img-t.m-auto(src='@/assets/curso/temas/tema1/img21.svg', alt='Imagen Decorativa')
             .tarjeta.color-primario.row.align-items-center.bg03
-              .col-md-9.mb-3.mb-sm-0
-                p.p-2.d-block.d-lg-none
+              .col-md-9.mb-3.mb-sm-0.pt-3.pt-md-0
                 p.mb-0.text-white 
                   b Muestra de 
                     i Brief 
@@ -154,6 +152,7 @@
                 a.boton.color-acento-botones(href="http://es.scribd.com/doc/68381546/Muestra-de-Brief-Creativo-Pepsi-Co#force_seo" target="_blank")
                   span Enlace
                   i.fas.fa-link
+
        
   </template>
 

@@ -8,10 +8,10 @@
         h1(data-aos="fade-right") Idea creativa
   
       .row.mb-5
-        .col-md-4(data-aos="fade-left")
+        .col-lg-4.col-md-8.mx-auto(data-aos="fade-left")
           figure
             img.mb-4(src='@/assets/curso/temas/tema3/img01.png', alt='Imagen Decorativa')
-        .col-md-8(data-aos="fade-right")
+        .col-lg-8.col-md-12(data-aos="fade-right")
           p El siguiente paso se basa en una estrategia de contenido, en la cual se analiza la estrategia creativa, que en este caso es el 
             i briefing 
             | creativo. Este documento es clave, ya que recoge toda la información necesaria para abordar el problema de comunicación y definir el enfoque correcto. A partir del 
@@ -19,7 +19,7 @@
           p Una vez establecido el eje de comunicación, se elabora el concepto o la idea creativa, que es la representación central del mensaje que se desea transmitir. Esta idea se proyecta en el mensaje publicitario de manera que conecte eficazmente con el público objetivo, alineándose con los valores y objetivos de la marca, tal como se analiza en la figura.
   
       .row.mb-5
-        .col-md-10.mx-auto
+        .col-lg-10.col-md-12.mx-auto
           .titulo_sexto.mb-4(data-aos="fade-right")
               h5.mb-0 Figura 3. 
                 span Estrategia de contenido.
@@ -62,10 +62,10 @@
         h2.mb-0 Representación de la idea creativa
   
       .row.mb-5
-        .col-md-4(data-aos="fade-left")
+        .col-lg-4.col-md-6.col-8.mx-auto(data-aos="fade-left")
           figure
             img.mb-4(src='@/assets/curso/temas/tema3/img04.png', alt='Imagen Decorativa')
-        .col-md-8(data-aos="fade-right")
+        .col-lg-8.col-md-12.col-12(data-aos="fade-right")
           p Un anuncio efectivo transmite la idea creativa de manera directa o inducida, mediante códigos publicitarios que ayudan a comunicar el mensaje de forma impactante y comprensible. La clave está en cómo se presenta la idea para captar la atención del público y generar una respuesta deseada.
           p Para la representación de la idea creativa en un anuncio, se pueden utilizar varias técnicas, como lluvia de ideas, mapas mentales, bocetos, 100 mph 
             i thinking, 
@@ -79,46 +79,46 @@
         .tarjeta.p-5
           SlyderA(tipo="b")
             .row.justify-content-center.align-items-center.my-lg-4
-              .col-md-5.mb-4.mb-md-0
+              .col-lg-5.col-md-12.mb-4.mb-md-0
                 p 
                   strong Ideas Innovadoras 
                 p Se muestra un boceto de la técnica 100 mph 
                   i thinking, 
                   | que se centra en encontrar ideas innovadoras y soluciones creativas que satisfagan las necesidades y gustos de los consumidores.
   
-              .col-md-7
+              .col-lg-7.col-md-8
                 figure
                   img(src='@/assets/curso/temas/tema3/img06.jpg', alt='Imagen Decorativa')
                   figcaption Nota. Rotimi Solola 2024
             
             .row.justify-content-center.align-items-center.my-lg-4
-              .col-md-5.mb-4.mb-md-0
+              .col-lg-5.col-md-12.mb-4.mb-md-0
                 p 
                   strong Objetivo
                 p El boceto muestra un mensaje publicitario para la representación de una idea creativa. La propuesta conceptual, destaca cómo se proyecta la idea en el mensaje final para captar la atención del público objetivo.
-              .col-md-7
+              .col-lg-7.col-md-8
                 figure
                   img(src='@/assets/curso/temas/tema3/img07.jpg', alt='Imagen Decorativa')
                   figcaption Nota. Rotimi Solola 2024
   
             .row.justify-content-center.align-items-center.my-lg-4
-              .col-md-5.mb-4.mb-md-0
+              .col-lg-5.col-md-12.mb-4.mb-md-0
                 p 
                   strong Marca
                 p El logo en la publicidad final debe destacar claramente la identidad de la marca. Además, debe ser visible y memorable, integrándose armónicamente con el mensaje y el diseño general para reforzar la imagen y asegurar la correcta asociación con la marca.
   
-              .col-md-7
+              .col-lg-7.col-md-8
                 figure
                   img(src='@/assets/curso/temas/tema3/img08.jpg', alt='Imagen Decorativa')
                   figcaption Nota. Rotimi Solola 2024
   
       p.mb-5 Los pasos seguidos para la representación de la idea creativa se detallan a continuación:
       .row.mb-5
-        .col-md-4(data-aos="fade-left")
+        .col-lg-4.col-md-8.mx-auto(data-aos="fade-left")
           figure
-            img.img-t.mx-auto(src='@/assets/curso/temas/tema3/img05.svg', alt='Imagen Decorativa')
-        .col-md-8(data-aos="fade-right")
-          SlyderF(columnas="col-lg-6 col-xl-6")
+            img.img-t.mb-2(src='@/assets/curso/temas/tema3/img05.svg', alt='Imagen Decorativa')
+        .col-lg-8.col-md-12(data-aos="fade-right")
+          SlyderF(columnas="col-lg-6 col-xl-6 col-md-6")
             .tarjeta.tarjeta--grisclaro.p-4 
               h2.big 01
               p.text-center Se estudió un 
@@ -136,7 +136,7 @@
               p.text-center Se logró la publicidad final. 
       
       
-      .row(data-aos="fade-up")
+      .row(data-aos="fade")
         .mx-auto.col-xs-12.col-md-10
           p.mb-4 Para profundizar en esta temática consulte la presentación:
   
@@ -144,16 +144,16 @@
             .tarjeta-avatar-b__img
               img.img-t.m-auto(src='@/assets/curso/temas/tema1/img21.svg', alt='Imagen Decorativa')
             .tarjeta.color-primario.row.align-items-center.bg03
-              .col-md-9.mb-3.mb-sm-0
-                p.p-2.d-block.d-lg-none
+              .col-lg-9.col-md-8.pt-3.pt-md-0.mb-3.mb-sm-0
                 p.mb-0.text-white 
                   b La Publicidad, el 
                   i brief, 
                   | la creatividad y el diseño gráfico publicitario. 
-              .col-md-2.mb-3.mb-sm-0.p-2
+              .col-lg-3.col-md-2.mb-3.mb-sm-0.p-2
                 a.boton.color-acento-botones(href="http://es.scribd.com/doc/68381546/Muestra-de-Brief-Creativo-Pepsi-Co#force_seo" target="_blank")
                   span Enlace
                   i.fas.fa-link
+
   </template>
 
 <script>

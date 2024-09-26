@@ -18,55 +18,55 @@
         .tarjeta.p-5
           SlyderA(tipo="b")
             .row.justify-content-center.align-items-center.my-lg-4
-              .col-md-6.mb-4.mb-md-0
+              .col-md-12.col-lg-6.mb-4.mb-md-0
                 p 
                   strong Icónico/Simbólico
                 p Estos logos se basan en gráficos simplificados y simbólicos que reflejan de manera literal o abstracta la filosofía o idea de la organización. Usualmente, el concepto detrás del diseño de un logo icónico o simbólico, es complejo dado que es necesario transmitir valores y funciones por medio de figuras abstractas, de lo contrario, serán similares a figuras tomadas de 
                   i clipart.  
                 p No son recomendables los desvanecidos u otros efectos en el diseño de logos icónicos o simbólicos. Este tipo de logos, generan un posicionamiento en la mente del consumidor con mayor rapidez debido a su naturaleza simple y simbólica.  Por ejemplo, Nike ©, Playboy ©, Shell Global S.A, entre otros.
   
-              .col-md-6
+              .col-md-8.col-lg-6
                 figure
                   img(src='@/assets/curso/temas/tema1/img03.svg', alt='Imagen Decorativa')
                   figcaption Nota. Playboy, 2014
             
             .row.justify-content-center.align-items-center.my-lg-4
-              .col-md-8.mb-4.mb-md-0
+              .col-md-12.col-lg-8.mb-4.mb-md-0
                 p 
                   strong Gráficos/Descriptivos
                 p Este tipo de logo usa imágenes que reflejan la esencia de un atributo de la organización, sin los detalles de un logo completamente ilustrativo. Su construcción se basa en retratar de una forma realista el tema, naturaleza o concepto de la organización por medio de una marca pictórica. A diferencia de los logos completamente ilustrativos, estos no buscan incluir todos los detalles, sino, que se centran en capturar la esencia o un concepto clave de la marca. De este modo, logran transmitir el mensaje de manera directa y comprensible, sin sobrecargar la imagen con elementos innecesarios.
                 p La construcción de estos logos se realiza a partir, de una representación realista que refleja la naturaleza o la idea principal de la organización. Este enfoque permite que el logo sea fácilmente identificable y que los espectadores puedan asociarlo rápidamente con el propósito de la empresa. Al ser pictóricos, estos logos combinan elementos gráficos con un nivel de detalle que equilibra claridad y simplicidad.
   
-              .col-md-4
+              .col-md-8.col-lg-4
                 figure
                   img(src='@/assets/curso/temas/tema1/img04.svg', alt='Imagen Decorativa')
                   figcaption Nota. NBA, 2014
   
             .row.justify-content-center.align-items-center.my-lg-4
-              .col-md-4.mb-4.mb-md-0
+              .col-md-12.col-lg-6.mb-4.mb-md-0
                 p 
                   strong Emblema
                 p El diseño de un logo basado en un emblema se basa en la comunicación visual de un escudo con la tipografía al interior del escudo. Estos tipos de logos poseen tipografía personalizada en su diseño. Por ejemplo, UPS ©, NHL ©, Ford ©, entre otros.
   
-              .col-md-8
+              .col-md-8.col-lg-6
                 figure
                   img(src='@/assets/curso/temas/tema1/img05.svg', alt='Imagen Decorativa')
                   figcaption Nota. UPS, 2014
   
             .row.justify-content-center.align-items-center.my-lg-4
-              .col-md-8.mb-4.mb-md-0
+              .col-md-12.col-lg-8.mb-4.mb-md-0
                 p 
                   strong Ilustrativo 
                 p Los logos con ilustraciones son altamente figurativos o pictóricos porque representan la naturaleza de la organización.  Estos logos son los más detallados e incorporan dibujos, personajes o mascotas relacionados a la marca. Su enfoque es capturar y comunicar la naturaleza y los valores de la marca de manera detallada y pictórica. Este tipo de logos, no se limita a formas abstractas o simples, sino, que integra dibujos, personajes o mascotas que están estrechamente relacionados con la identidad de la empresa. 
                 p La riqueza de detalles en estos logos ayuda a crear una conexión emocional con el público, facilitando que la marca sea reconocida y recordada. Al ser tan específicos, estos logos pueden transmitir la historia o el propósito de la organización de un solo vistazo. Además, suelen ser usados por empresas que desean destacar su personalidad única o crear una imagen amigable y accesible. Sin embargo, por su complejidad, es esencial que estos logos se diseñen con cuidado, asegurándose de que se mantengan efectivos en diferentes tamaños y aplicaciones.
   
-              .col-md-4
+              .col-md-8.col-lg-4
                 figure
                   img(src='@/assets/curso/temas/tema1/img06.svg', alt='Imagen Decorativa')
                   figcaption Nota. (Douglas, 2011)
   
             .row.justify-content-center.align-items-center.my-lg-4
-              .col-md-8.mb-4.mb-md-0
+              .col-md-12.col-lg-8.mb-4.mb-md-0
                 p 
                   strong Tipográfico  
                 p El diseño de este tipo de logo, está basado en el tratamiento de la letra. En este caso se diseña el nombre de la marca con una fuente única, un juego de fuentes o una tipografía personalizada o en la combinación de diferentes fuentes para dar vida al nombre de la organización. Es un logo fácil de recordar porque involucra directamente el nombre de la marca, ya que coloca el nombre en el centro de la identidad visual, sin embargo, difícilmente transmite la idea o función de la organización, servicio o producto. 
@@ -74,7 +74,7 @@
                 p Además, estos logos son memorables y efectivos en su simplicidad, pero dependen en gran medida del reconocimiento previo de la marca para transmitir un mensaje más profundo. 
   
   
-              .col-md-4
+              .col-md-8.col-lg-4
                 figure
                   img(src='@/assets/curso/temas/tema1/img07.png', alt='Imagen Decorativa')
                   figcaption Nota. Google, 2014
@@ -85,11 +85,11 @@
       
       
       .row.mb-5
-        .col-md-9(data-aos="fade-left")
+        .col-lg-9.col-md-12(data-aos="fade-left")
           p Un logotipo efectivo es aquel que es reconocido al instante, genera recordación de marca y es capaz de adaptarse fácilmente en diferentes medios. Esta inmediatez en el reconocimiento es clave para una fuerte identidad de marca.
           p Además, un buen logotipo genera recordación, es decir, deja una impresión duradera en la mente de los consumidores. Esta capacidad de permanecer en la memoria es crucial para construir y mantener la presencia de la marca a lo largo del tiempo.
           p Por último, un logotipo efectivo debe ser adaptable. Esto significa que debe funcionar bien en diferentes medios y tamaños, desde grandes carteles hasta pequeños íconos digitales, manteniendo siempre su integridad y mensaje visual.
-        .col-md-3(data-aos="fade-right")
+        .col-lg-3.col-md-8.mx-auto(data-aos="fade-right")
           figure
             img(src='@/assets/curso/temas/tema1/img10.png', alt='Imagen Decorativa')
   
@@ -97,10 +97,10 @@
       h3.mb-3.blue_icon Caracteristicas
       p El logotipo debe de ser:
       .row.mb-5
-        .col-md-4(data-aos="fade-left")
+        .col-lg-4.col-md-6.mx-auto(data-aos="fade-left")
           figure
-            img(src='@/assets/curso/temas/tema1/img09.png', alt='Imagen Decorativa')
-        .col-md-8(data-aos="fade-right")
+            img.mb-4(src='@/assets/curso/temas/tema1/img09.png', alt='Imagen Decorativa')
+        .col-lg-8.col-md-12(data-aos="fade-right")
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
             div(titulo="Simple")
               p La simplicidad en el diseño es la clave para que se reconozca fácilmente, logrando recordación y versatilidad por medio del tiempo. 
@@ -246,11 +246,11 @@
       p Los siguientes pasos conllevan a la creación del logo: 
   
       .row.mb-5
-        .col-md-4(data-aos="fade-left")
+        .col-md-12.col-lg-4(data-aos="fade-left")
           figure
-            img.img-t.mx-auto(src='@/assets/curso/temas/tema1/img17.svg', alt='Imagen Decorativa')
-        .col-md-8(data-aos="fade-right")
-          SlyderF(columnas="col-lg-6 col-xl-6")
+            img.img-t.mb-4.mx-auto(src='@/assets/curso/temas/tema1/img17.svg', alt='Imagen Decorativa')
+        .col-md-12.col-lg-8(data-aos="fade-right")
+          SlyderF(columnas="col-lg-6 col-xl-6 col-md-6")
             .tarjeta.tarjeta--grisclaro.p-4 
               h2.big 01
               p.text-center Desarrollo del 
@@ -292,7 +292,7 @@
               | tal como se indica en la siguiente tabla:
   
       .row.mb-5
-        .col-md-7.mx-auto
+        .col-lg-7.col-md-10.mx-auto
           .titulo_sexto.mb-4(data-aos="fade-right")
             h5.mb-0 Tabla 2. 
               span 
@@ -355,13 +355,12 @@
                     p ¿Qué colores identifican su organización y por qué?
   
       .row(data-aos="fade-up")
-        .mx-auto.col-xs-12.col-md-10
+        .mx-auto.col-xs-12.col-md-12.col-lg-10
           .tarjeta-avatar-b.mb-5
             .tarjeta-avatar-b__img
               img.img-t.m-auto(src='@/assets/curso/temas/tema1/img21.svg', alt='Imagen Decorativa')
             .tarjeta.color-primario.row.align-items-center.bg03
-              .col-md-9.mb-3.mb-sm-0
-                p.p-2.d-block.d-lg-none
+              .col-md-9.mb-3.mb-sm-0.pt-3.pt-md-0
                 p.mb-0
                   b.text-white Para profundizar en esta temática observe el siguiente video: Diseño de Logo - Los Diferentes Logos Que Existen
               .col-md-2.mb-3.mb-sm-0.p-2

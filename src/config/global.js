@@ -99,14 +99,13 @@ export default {
       tema: 'Psicología del color',
       referencia: 'Manual de imagen corporativa del SENA 2022-2026',
       tipo: 'Página web',
-      link:
-        'https://sena.edu.co/es-co/transparencia/ProyectoNorma/res_1-1910_manual_identidad_corporativa_2022.pdf ',
+      link: 'downloads/res_1-1910_manual_identidad_corporativa_2022.pdf ',
     },
     {
       tema: 'Diseño de logos ',
       referencia: 'APA Diseño Gráfico. Curso logotipos',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=4mF9k7nEIwc',
+      link: 'https://www.youtube.com/watch?v=4mF9k7nEIwc',
     },
   ],
   glosario: [
@@ -268,12 +267,6 @@ export default {
         {
           nombre: 'Álvaro Guillermo Araújo Angarita',
           cargo: 'Desarrollador Fullstack',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
-        },
-        {
-          nombre: 'Álvaro Guillermo Araújo Angarita',
-          cargo: 'Actividad Didáctica',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
