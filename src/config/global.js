@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Diseño y creatividad publicitaria',
     descripcionCurso:
-      'La producción de imágenes digitales facilita el desarrollo de estrategias creativas y la elaboración de diversos tipos de logos. Además, permite el diseño de un briefing creativo alineado con las necesidades del cliente y las expectativas de las empresas, asegurando así que los elementos visuales diseñados cumplan con los objetivos establecidos en la estrategia comunicativa del proyecto.',
+      'La producción de imágenes digitales facilita el desarrollo de estrategias creativas y la elaboración de diversos tipos de logos. Además, permite el diseño de un <i>briefing</i> creativo alineado con las necesidades del cliente y las expectativas de las empresas, asegurando así que los elementos visuales diseñados cumplan con los objetivos establecidos en la estrategia comunicativa del proyecto.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -80,7 +80,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/52230010_CF01_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -174,7 +174,8 @@ export default {
     {
       referencia:
         'García Guardia, M. (2009). El planner, clave de la publicidad eficaz. Estratega y orientador de creatividad.',
-      link: '',
+      link:
+        'https://docta.ucm.es/rest/api/core/bitstreams/bda65007-6c54-4d78-856e-b904620e6714/content',
     },
     {
       referencia:
@@ -186,13 +187,13 @@ export default {
       referencia:
         'Gonzalez-Oñate, C. (2009). Estrategia de comunicación publicitaria para el lanzamiento de una marca.',
       link:
-        'https://repositori.uji.es/xmlui/bitstream/handle/10234/22650/32448.pdf?sequence=1&isAllowed=y',
+        'https://arquivo.bocc.ubi.pt/pag/gonzalez-onate-cristina-estrategias-de-comunicacion-publicitaria.pdf',
     },
     {
       referencia:
         'gczarrias.com (Sin fecha) Diferencias entre un logotipo, un isotipo, un imagotipo, una marca. ',
       link:
-        'http://zarrias.com/ALUMNOS/archivos/diseno/Diferencias%20entre%20un%20logotipo.pdf ',
+        'http://zarrias.com/ALUMNOS/archivos/diseno/Diferencias%20entre%20un%20logotipo.pdf',
     },
     {
       referencia:

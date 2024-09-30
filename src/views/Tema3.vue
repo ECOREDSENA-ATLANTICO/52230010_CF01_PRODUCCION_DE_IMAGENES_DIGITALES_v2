@@ -12,7 +12,7 @@
           figure
             img.mb-4(src='@/assets/curso/temas/tema3/img01.png', alt='Imagen Decorativa')
         .col-lg-8.col-md-12(data-aos="fade-right")
-          p El siguiente paso se basa en una estrategia de contenido, en la cual se analiza la estrategia creativa, que en este caso es el 
+          p El siguiente paso, se basa en una estrategia de contenido, en la cual se analiza la estrategia creativa, que en este caso es el 
             i briefing 
             | creativo. Este documento es clave, ya que recoge toda la información necesaria para abordar el problema de comunicación y definir el enfoque correcto. A partir del 
             i briefing, se selecciona el eje de comunicación y se elabora el concepto o la idea creativa, que se proyecta en el mensaje publicitario.
@@ -29,20 +29,20 @@
       
       figure.d-flex.align-items-center.mb-4
         img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/tema1/img08.png', alt='Imagen Decorativa')
-        h2.mb-0 Estrategia de Contenido
+        h2.mb-0 Estrategia de contenido
   
       .mb-5
-        p La estrategia de contenido estructura el mensaje publicitario. En la estrategia se desarrollan los siguientes pasos: Primero se selecciona el eje de comunicación. El beneficio argumentado en el 
+        p La estrategia de contenido estructura el mensaje publicitario. En la estrategia se desarrollan los siguientes pasos: primero se selecciona el eje de comunicación. El beneficio argumentado en el 
           i briefing 
           | creativo es la ventaja o valor que se destaca como el principal atractivo del producto o servicio, y que se utilizará como eje central en la campaña publicitaria. El creativo debe apelar a la satisfacción del individuo por medio de sus necesidades, deseos, esperanzas, emociones o ambiciones.  
-        p Ahora el creativo debe representar esa satisfacción en un concepto o idea creativa que estructure el contenido del mensaje publicitario. Por ejemplo, se puede evocar directamente la satisfacción o de manera inducida. Un ejemplo de evocación directa es: “Lanita no sube el precio” o “Pasta Blanca, nueva textura, mejor disolución”. 
+        p Ahora el creativo debe representar esa satisfacción en un concepto o idea creativa que estructure el contenido del mensaje publicitario. Por ejemplo, se puede evocar directamente la satisfacción o de manera inducida. Un ejemplo de evocación directa es: “Lanita no sube el precio” o “Pasta blanca, nueva textura, mejor disolución”. 
   
       .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-up")
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img03.jpg')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 La evocación inducida exige que el público objetivo interprete el significado de la idea creativa; por ejemplo: Agua Escondida, todavía quedan océanos por descubrir o explorar, ¿quién ha dicho que la belleza no se puede comprar? La elaboración del concepto o idea es la parte más compleja del proceso creativo en la publicidad.
+          p.mb-0 La evocación inducida exige que el público objetivo interprete el significado de la idea creativa; por ejemplo: agua escondida, todavía quedan océanos por descubrir o explorar, ¿quién ha dicho que la belleza no se puede comprar? la elaboración del concepto o idea es la parte más compleja del proceso creativo en la publicidad.
   
       figure.d-flex.align-items-center.mb-4
         img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/tema1/img08.png', alt='Imagen Decorativa')
@@ -146,7 +146,7 @@
             .tarjeta.color-primario.row.align-items-center.bg03
               .col-lg-9.col-md-8.pt-3.pt-md-0.mb-3.mb-sm-0
                 p.mb-0.text-white 
-                  b La Publicidad, el 
+                  b La publicidad, el 
                   i brief, 
                   | la creatividad y el diseño gráfico publicitario. 
               .col-lg-3.col-md-2.mb-3.mb-sm-0.p-2

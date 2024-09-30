@@ -29,7 +29,34 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/img03.svg', alt='Imagen Decorativa')
                   figcaption Nota. Playboy, 2014
+
+
+            .row.justify-content-center.align-items-center.my-lg-4
+              .col-md-12.col-lg-8.mb-4.mb-md-0
+                p 
+                  strong Tipográfico  
+                p El diseño de este tipo de logo, está basado en el tratamiento de la letra. En este caso se diseña el nombre de la marca con una fuente única, un juego de fuentes o una tipografía personalizada o en la combinación de diferentes fuentes para dar vida al nombre de la organización. Es un logo fácil de recordar porque involucra directamente el nombre de la marca, ya que coloca el nombre en el centro de la identidad visual, sin embargo, difícilmente transmite la idea o función de la organización, servicio o producto. 
+                p Esta simplicidad también puede ser una limitación, ya que el logo en sí, no comunica directamente la función, idea o propósito del producto o servicio que representa. A pesar, de su aparente simplicidad, diseñar un logo basado en la tipografía requiere una gran habilidad para seleccionar o crear una fuente que no solo sea distintiva, sino, que también refuerce los valores y la personalidad de la marca.
+                p Además, estos logos son memorables y efectivos en su simplicidad, pero dependen en gran medida del reconocimiento previo de la marca para transmitir un mensaje más profundo. 
+              .col-md-8.col-lg-4
+                figure
+                  img(src='@/assets/curso/temas/tema1/img07.png', alt='Imagen Decorativa')
+                  figcaption Nota. Google, 2014
             
+
+            .row.justify-content-center.align-items-center.my-lg-4
+              .col-md-12.col-lg-8.mb-4.mb-md-0
+                p 
+                  strong Ilustrativo 
+                p Los logos con ilustraciones son altamente figurativos o pictóricos porque representan la naturaleza de la organización.  Estos logos son los más detallados e incorporan dibujos, personajes o mascotas relacionados a la marca. Su enfoque es capturar y comunicar la naturaleza y los valores de la marca de manera detallada y pictórica. Este tipo de logos, no se limita a formas abstractas o simples, sino, que integra dibujos, personajes o mascotas que están estrechamente relacionados con la identidad de la empresa. 
+                p La riqueza de detalles en estos logos ayuda a crear una conexión emocional con el público, facilitando que la marca sea reconocida y recordada. Al ser tan específicos, estos logos pueden transmitir la historia o el propósito de la organización de un solo vistazo. Además, suelen ser usados por empresas que desean destacar su personalidad única o crear una imagen amigable y accesible. Sin embargo, por su complejidad, es esencial que estos logos se diseñen con cuidado, asegurándose de que se mantengan efectivos en diferentes tamaños y aplicaciones.
+  
+              .col-md-8.col-lg-4
+                figure
+                  img(src='@/assets/curso/temas/tema1/img06.svg', alt='Imagen Decorativa')
+                  figcaption Nota. (Douglas, 2011)
+  
+  
             .row.justify-content-center.align-items-center.my-lg-4
               .col-md-12.col-lg-8.mb-4.mb-md-0
                 p 
@@ -46,38 +73,14 @@
               .col-md-12.col-lg-6.mb-4.mb-md-0
                 p 
                   strong Emblema
-                p El diseño de un logo basado en un emblema se basa en la comunicación visual de un escudo con la tipografía al interior del escudo. Estos tipos de logos poseen tipografía personalizada en su diseño. Por ejemplo, UPS ©, NHL ©, Ford ©, entre otros.
+                p El diseño de un logo basado en un emblema, se basa en la comunicación visual de un escudo con la tipografía al interior del escudo. Estos tipos de logos poseen tipografía personalizada en su diseño. Por ejemplo, UPS ©, NHL ©, Ford ©, entre otros.
   
               .col-md-8.col-lg-6
                 figure
                   img(src='@/assets/curso/temas/tema1/img05.svg', alt='Imagen Decorativa')
                   figcaption Nota. UPS, 2014
   
-            .row.justify-content-center.align-items-center.my-lg-4
-              .col-md-12.col-lg-8.mb-4.mb-md-0
-                p 
-                  strong Ilustrativo 
-                p Los logos con ilustraciones son altamente figurativos o pictóricos porque representan la naturaleza de la organización.  Estos logos son los más detallados e incorporan dibujos, personajes o mascotas relacionados a la marca. Su enfoque es capturar y comunicar la naturaleza y los valores de la marca de manera detallada y pictórica. Este tipo de logos, no se limita a formas abstractas o simples, sino, que integra dibujos, personajes o mascotas que están estrechamente relacionados con la identidad de la empresa. 
-                p La riqueza de detalles en estos logos ayuda a crear una conexión emocional con el público, facilitando que la marca sea reconocida y recordada. Al ser tan específicos, estos logos pueden transmitir la historia o el propósito de la organización de un solo vistazo. Además, suelen ser usados por empresas que desean destacar su personalidad única o crear una imagen amigable y accesible. Sin embargo, por su complejidad, es esencial que estos logos se diseñen con cuidado, asegurándose de que se mantengan efectivos en diferentes tamaños y aplicaciones.
-  
-              .col-md-8.col-lg-4
-                figure
-                  img(src='@/assets/curso/temas/tema1/img06.svg', alt='Imagen Decorativa')
-                  figcaption Nota. (Douglas, 2011)
-  
-            .row.justify-content-center.align-items-center.my-lg-4
-              .col-md-12.col-lg-8.mb-4.mb-md-0
-                p 
-                  strong Tipográfico  
-                p El diseño de este tipo de logo, está basado en el tratamiento de la letra. En este caso se diseña el nombre de la marca con una fuente única, un juego de fuentes o una tipografía personalizada o en la combinación de diferentes fuentes para dar vida al nombre de la organización. Es un logo fácil de recordar porque involucra directamente el nombre de la marca, ya que coloca el nombre en el centro de la identidad visual, sin embargo, difícilmente transmite la idea o función de la organización, servicio o producto. 
-                p Esta simplicidad también puede ser una limitación, ya que el logo en sí, no comunica directamente la función, idea o propósito del producto o servicio que representa. A pesar, de su aparente simplicidad, diseñar un logo basado en la tipografía requiere una gran habilidad para seleccionar o crear una fuente que no solo sea distintiva, sino, que también refuerce los valores y la personalidad de la marca.
-                p Además, estos logos son memorables y efectivos en su simplicidad, pero dependen en gran medida del reconocimiento previo de la marca para transmitir un mensaje más profundo. 
-  
-  
-              .col-md-8.col-lg-4
-                figure
-                  img(src='@/assets/curso/temas/tema1/img07.png', alt='Imagen Decorativa')
-                  figcaption Nota. Google, 2014
+           
           
       figure.d-flex.align-items-center.mb-4
         img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/tema1/img08.png', alt='Imagen Decorativa')
@@ -135,10 +138,10 @@
               thead
                 tr
                   th Color
-                  th Personalidad - Emociones
+                  th Personalidad - emociones
                   th 
                     i Marketing 
-                    | y Publicidad 
+                    | y publicidad 
               tbody
                 tr
                   td  
@@ -181,7 +184,7 @@
                       li Representa calma y serenidad.
                       li Disminuye el apetito.
                       li Conocido como un color ‘frío’.
-                      li Percibido como constante en la vida humana por ser los colores del cielo y el mar.
+                      li Percibido como constante en la vida humana, por ser los colores del cielo y el mar.
                       li Incrementa la productividad.
   
                   td 
@@ -201,7 +204,7 @@
                   td 
                     ul.bullets
                       li Significa agresión.
-                      li Crea un llamado a la acción: Compre, Venda, Suscríbase.
+                      li Crea un llamado a la acción: compre, venda, suscríbase.
                       li Presente en compradores impulsivos.
                       li Representa una marca amigable, alegre y confiable.
   
@@ -242,7 +245,7 @@
         i briefing, 
         | el cual consiste en enviarle al cliente un 
         i brief 
-        | o documento con preguntas con el fin de obtener información sobre la organización y la misión que esta persigue, entre otros valores que ostenta; estos son los insumos necesarios para que el publicista cree el logo. 
+        | o documento con preguntas, con el fin de obtener información sobre la organización y la misión que esta persigue, entre otros valores que ostenta; estos son los insumos necesarios para que el publicista cree el logo. 
       p Los siguientes pasos conllevan a la creación del logo: 
   
       .row.mb-5
@@ -270,17 +273,13 @@
   
             .tarjeta.tarjeta--grisclaro.p-4
               h2.big 04
-              p.text-center Comprensión de la información de la organización por medio del 
-                i brief 
-                | como paso previo para iniciar a realizar al menos treinta bocetos a mano con figuras, símbolos o ilustraciones que manifiesten la naturaleza del cliente.  
+              p.text-center Al elegir los colores se debe poner el logo a prueba por medio de la opinión pública.
   
             .tarjeta.tarjeta--grisclaro.p-4
               h2.big 05
-              p.text-center Al elegir los colores se debe poner el logo a prueba por medio de la opinión pública. 
-  
-            .tarjeta.tarjeta--grisclaro.p-4
-              h2.big 06
               p.text-center Realizar las modificaciones al logo para lograr su resultado final.
+  
+           
   
       .row.mb-5
         .col-12.col-lg-7.mx-auto.bg02
@@ -362,7 +361,7 @@
             .tarjeta.color-primario.row.align-items-center.bg03
               .col-md-9.mb-3.mb-sm-0.pt-3.pt-md-0
                 p.mb-0
-                  b.text-white Para profundizar en esta temática observe el siguiente video: Diseño de Logo - Los Diferentes Logos Que Existen
+                  b.text-white Para profundizar en esta temática diríjase al siguiente video: Diseño de Logo - Los diferentes logos que existen:
               .col-md-2.mb-3.mb-sm-0.p-2
                 a.boton.color-acento-botones(href="http://repositorio.unicauca.edu.co:8080/bitstream/handle/123456789/892/ANEXO%20C.pdf?sequence=2&isAllowed=y" target="_blank")
                   span Enlace

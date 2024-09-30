@@ -6,7 +6,7 @@
         .titulo-principal__numero
           span 2
         h1(data-aos="fade-right")
-          i briefing
+          i Briefing
       
       .row.mb-5
         .col-lg-7.col-md-12(data-aos="fade-left")
@@ -17,9 +17,7 @@
             li Las características de la empresa.
             li El beneficio o diferencia significativa del producto o servicio.
             li Público objetivo a quien va dirigido la comunicación. 
-            li 
-              b El mercado: 
-              | información de ventas, precio, segmentación.
+            li El mercado: información de ventas, precio, segmentación.
             li Objetivos de comunicación. 
             li El presupuesto para invertir en la campaña.
             li Medios que utilizar. 
@@ -50,7 +48,9 @@
   
       figure.d-flex.align-items-center.mb-4
         img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/tema1/img08.png', alt='Imagen Decorativa')
-        h2.mb-0 Principios en el diseño de un logo
+        h2.mb-0 
+          i Briefing 
+          | creativo
   
       .row.mb-5
         .col-8.col-md-6.col-lg-5.mx-auto(data-aos="fade-left")
@@ -81,17 +81,23 @@
             i briefing 
             | creativo analizando la información escrita y oral que aportó el anunciante o cliente; esas acciones son desarrolladas por un equipo responsable de la estrategia de comunicación conformado por un director creativo y el 
             i planner, 
-            | entre otros entre ellos generan el flujo de acciones se pueden consultar en la siguiente figura:
+            | entre otros entre ellos generan el flujo de acciones, y se pueden consultar en la siguiente figura:
   
       .row.mb-5
         .col-md-12.col-lg-10.mx-auto
           .titulo_sexto.mb-4(data-aos="fade-right")
               h5.mb-0 Figura 2. 
-                span Briefing Creativo
+                span Briefing creativo
           figure
             img(src='@/assets/curso/temas/tema2/img03.svg', alt='Imagen Decorativa')
             figcaption Nota, SENA (2014)
-          
+      
+      p El 
+        i briefing 
+        | creativo, es un lineamiento que establece la orientación estratégica para la creación del mensaje publicitario. Las características generales del 
+        i briefing 
+        | creativo son las siguientes:
+
       .row.mb-5
         .col-lg-5.col-md-8.mx-auto
           figure
