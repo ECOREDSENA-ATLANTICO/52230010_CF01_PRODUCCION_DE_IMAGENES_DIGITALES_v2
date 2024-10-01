@@ -14,7 +14,8 @@
       figure.mb-5
         .video
           <iframe width="853" height="480" src="https://www.youtube.com/embed/4ghDpL7vTdg?si=7N-RRTiH-Qj6qd3g" title="Gestión de Sistemas Agroecológicos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      
+        figcaption Video: Sena 2014.
+
       .row.align-items-center.mb-5
         .col-lg-6(data-aos="fade-left")
           p El diseño de un logo, es una tarea compleja que requiere el análisis de la organización, la promesa de valor y las ventajas de los servicios o productos frente a los consumidores. A partir de estos factores se inician bocetos de logos que representen la función y esencia de la compañía teniendo en cuenta la psicología del color. 

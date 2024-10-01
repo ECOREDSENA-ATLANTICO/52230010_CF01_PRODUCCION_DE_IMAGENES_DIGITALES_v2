@@ -24,7 +24,7 @@
               h5.mb-0 Figura 3. 
                 span Estrategia de contenido.
           figure
-            img(src='@/assets/curso/temas/tema3/img02.svg', alt='Imagen Decorativa')
+            img(src='@/assets/curso/temas/tema3/img02.svg', alt='En la estrategia de contenido es importante tener en cuenta: - Análisis de briefing creativo. - Selección eje de comunicación. - Elaboración, concepto o idea creativa. - Proyección de la idea en un mensaje publicitario.')
             figcaption Nota. Sena (2014)
       
       figure.d-flex.align-items-center.mb-4

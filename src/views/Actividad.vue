@@ -168,7 +168,7 @@ export default {
             },
             {
               id: 'd',
-              texto: 'Realizar un análisis de mercado',
+              texto: 'Realizar un análisis de mercado.',
               esCorrecta: false,
             },
           ],

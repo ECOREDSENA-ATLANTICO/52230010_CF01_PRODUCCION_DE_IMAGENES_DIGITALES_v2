@@ -125,7 +125,7 @@ export default {
         'conjunto de elementos gráficos que identifican visualmente a una marca, incluidos colores, tipografías y logotipos.',
     },
     {
-      termino: 'Logotipo:',
+      termino: 'Logotipo',
       significado:
         'es un símbolo compuesto por elementos gráficos, texto e imagen que sirve como el identificador visual de una empresa o marca, representando su identidad de maneraúnica y reconocible.',
     },
@@ -191,7 +191,7 @@ export default {
     },
     {
       referencia:
-        'gczarrias.com (Sin fecha) Diferencias entre un logotipo, un isotipo, un imagotipo, una marca. ',
+        'Zarrias.com (Sin fecha). Diferencias entre un logotipo, un isotipo, un imagotipo, una marca. ',
       link:
         'http://zarrias.com/ALUMNOS/archivos/diseno/Diferencias%20entre%20un%20logotipo.pdf',
     },
