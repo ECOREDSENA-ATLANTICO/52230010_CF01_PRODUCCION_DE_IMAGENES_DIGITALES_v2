@@ -12,11 +12,11 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="En la síntesis de producción de imágenes digitales incluye los tipos de logos, diseño de logos, idea creativa, estrategia del mensaje publicitario, principios en el diseño de un logo, briefing, estrategias de contenido y representación de la idea creativa.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
+            img(src="@/assets/template/icono-pdf.svg", alt="Imagen decorativa")
           .anexo__texto
             p Anexo. Síntesis
 

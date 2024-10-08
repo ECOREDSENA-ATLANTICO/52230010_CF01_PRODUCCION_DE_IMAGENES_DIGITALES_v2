@@ -27,7 +27,7 @@
   
               .col-md-8.col-lg-6
                 figure
-                  img(src='@/assets/curso/temas/tema1/img03.svg', alt='Imagen Decorativa')
+                  img(src='@/assets/curso/temas/tema1/img03.svg', alt='')
                   figcaption Nota. Playboy, 2014
 
 
@@ -40,7 +40,7 @@
                 p Además, estos logos son memorables y efectivos en su simplicidad, pero dependen en gran medida del reconocimiento previo de la marca para transmitir un mensaje más profundo. 
               .col-md-8.col-lg-4
                 figure
-                  img(src='@/assets/curso/temas/tema1/img07.png', alt='Imagen Decorativa')
+                  img(src='@/assets/curso/temas/tema1/img07.png', alt='')
                   figcaption Nota. Google, 2014
             
 
@@ -48,12 +48,12 @@
               .col-md-12.col-lg-8.mb-4.mb-md-0
                 p 
                   strong Ilustrativo 
-                p Los logos con ilustraciones son altamente figurativos o pictóricos porque representan la naturaleza de la organización.  Estos logos son los más detallados e incorporan dibujos, personajes o mascotas relacionados a la marca. Su enfoque es capturar y comunicar la naturaleza y los valores de la marca de manera detallada y pictórica. Este tipo de logos, no se limita a formas abstractas o simples, sino, que integra dibujos, personajes o mascotas que están estrechamente relacionados con la identidad de la empresa. 
+                p Los logos con ilustraciones son altamente figurativos o pictóricos porque representan la naturaleza de la organización.  Estos logos son los más detallados e incorporan dibujos, personajes o mascotas relacionados con la marca. Su enfoque es capturar y comunicar la naturaleza y los valores de la marca de manera detallada y pictórica. Este tipo de logos, no se limita a formas abstractas o simples, sino, que integra dibujos, personajes o mascotas que están estrechamente relacionados con la identidad de la empresa. 
                 p La riqueza de detalles en estos logos ayuda a crear una conexión emocional con el público, facilitando que la marca sea reconocida y recordada. Al ser tan específicos, estos logos pueden transmitir la historia o el propósito de la organización de un solo vistazo. Además, suelen ser usados por empresas que desean destacar su personalidad única o crear una imagen amigable y accesible. Sin embargo, por su complejidad, es esencial que estos logos se diseñen con cuidado, asegurándose de que se mantengan efectivos en diferentes tamaños y aplicaciones.
   
               .col-md-8.col-lg-4
                 figure
-                  img(src='@/assets/curso/temas/tema1/img06.svg', alt='Imagen Decorativa')
+                  img(src='@/assets/curso/temas/tema1/img06.svg', alt='')
                   figcaption Nota. (Douglas, 2011)
   
   
@@ -66,7 +66,7 @@
   
               .col-md-8.col-lg-4
                 figure
-                  img(src='@/assets/curso/temas/tema1/img04.svg', alt='Imagen Decorativa')
+                  img(src='@/assets/curso/temas/tema1/img04.svg', alt='')
                   figcaption Nota. NBA, 2014
   
             .row.justify-content-center.align-items-center.my-lg-4
@@ -77,7 +77,7 @@
   
               .col-md-8.col-lg-6
                 figure
-                  img(src='@/assets/curso/temas/tema1/img05.svg', alt='Imagen Decorativa')
+                  img(src='@/assets/curso/temas/tema1/img05.svg', alt='')
                   figcaption Nota. UPS, 2014
   
            
@@ -115,7 +115,7 @@
               p El diseño del logo se debe centrar en una construcción del concepto organizacional y mantenerse alejado de tendencias, ya que estas desaparecen. Un logotipo atemporal permite a su cliente disfrutar de su longevidad al posicionarse en la mente del consumidor para un largo plazo.
   
             div(titulo="Versátil")
-              p Los logos son gráficos que representan una marca comercial, por ende, las organizaciones comercializan sus productos o servicios haciendo uso de varios medios. Por ejemplo, en anuncios televisivos, tarjetas de presentación o en vallas. Por ello, el logo debe adaptarse a cualquier medio digital o impreso, en blanco o negro sin perder su calidad o concepto. 
+              p Los logos son gráficos que representan una marca comercial, por ende, las organizaciones comercializan sus productos o servicios haciendo uso de varios medios. Por ejemplo, en anuncios televisivos, tarjetas de presentación o en vallas. Por ello, el logo debe adaptarse a cualquier medio digital o impreso, en blanco o negro, sin perder su calidad o concepto. 
             
             div(titulo="Pertinencia")
               p En el diseño de un logo este debe reflejar la identidad, filosofía o idea de la organización. Es importante que el logo sea relevante para la industria a la cual pertenece. Debe transmitir un concepto claro al público objetivo. 
@@ -363,7 +363,7 @@
                 p.mb-0
                   b.text-white Para profundizar en esta temática diríjase al siguiente video: Diseño de Logo - Los diferentes logos que existen:
               .col-md-2.mb-3.mb-sm-0.p-2
-                a.boton.color-acento-botones(href="http://repositorio.unicauca.edu.co:8080/bitstream/handle/123456789/892/ANEXO%20C.pdf?sequence=2&isAllowed=y" target="_blank")
+                a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=NDBLrmJ6XrU" target="_blank")
                   span Enlace
                   i.fas.fa-link
   
@@ -379,7 +379,7 @@
               span Estrategia de comunicación
   
           figure
-            img(src='@/assets/curso/temas/tema1/img23.svg', alt='Imagen Decorativa')
+            img(src='@/assets/curso/temas/tema1/img23.svg', alt='Dentro de las estrategias de comunicación, están: - Estrategia creativa: procedimiento para definir contenido de la comunicación. - Estrategia de medios: selección, planificación y contratación de medios para transmisión.')
             figcaption Nota. Sena, 2014
   
   </template>

@@ -105,7 +105,7 @@ export default {
       tema: 'Diseño de logos ',
       referencia: 'APA Diseño Gráfico. Curso logotipos',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=4mF9k7nEIwc',
+      link: 'https://www.youtube.com/watch?v=NDBLrmJ6XrU',
     },
   ],
   glosario: [

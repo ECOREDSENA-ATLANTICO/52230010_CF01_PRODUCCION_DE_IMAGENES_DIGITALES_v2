@@ -16,14 +16,14 @@
           ul.red_checks
             li Las características de la empresa.
             li El beneficio o diferencia significativa del producto o servicio.
-            li Público objetivo a quien va dirigido la comunicación. 
+            li Público objetivo a quien va dirigida la comunicación. 
             li El mercado: información de ventas, precio, segmentación.
             li Objetivos de comunicación. 
             li El presupuesto para invertir en la campaña.
             li Medios que utilizar. 
-          p Si se necesita más información del cliente se realiza un contrabriefing y se convoca a una reunión con el cliente de la cual surge el 
+          p Si se necesita más información del cliente, se realiza un contrabriefing y se convoca a una reunión con el cliente, de la cual surge el 
             i briefing 
-            | definitivo para creación. Para profundizar en esta temática consulte:
+            | definitivo para creación. Para profundizar en esta temática, consulte:
         
         .col-lg-5.col-md-8.mx-auto(data-aos="fade-right")
           figure

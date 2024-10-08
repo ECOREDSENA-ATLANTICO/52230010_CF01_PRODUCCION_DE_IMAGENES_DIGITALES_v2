@@ -35,7 +35,7 @@
         p La estrategia de contenido estructura el mensaje publicitario. En la estrategia se desarrollan los siguientes pasos: primero se selecciona el eje de comunicación. El beneficio argumentado en el 
           i briefing 
           | creativo es la ventaja o valor que se destaca como el principal atractivo del producto o servicio, y que se utilizará como eje central en la campaña publicitaria. El creativo debe apelar a la satisfacción del individuo por medio de sus necesidades, deseos, esperanzas, emociones o ambiciones.  
-        p Ahora el creativo debe representar esa satisfacción en un concepto o idea creativa que estructure el contenido del mensaje publicitario. Por ejemplo, se puede evocar directamente la satisfacción o de manera inducida. Un ejemplo de evocación directa es: “Lanita no sube el precio” o “Pasta blanca, nueva textura, mejor disolución”. 
+        p Ahora, el creativo debe representar esa satisfacción en un concepto o idea creativa que estructure el contenido del mensaje publicitario. Por ejemplo, se puede evocar directamente la satisfacción o de manera inducida. Un ejemplo de evocación directa es: “Lanita no sube el precio” o “Pasta blanca, nueva textura, mejor disolución”. 
   
       .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-up")
         .bloque-texto-g__img(
@@ -47,10 +47,10 @@
       figure.d-flex.align-items-center.mb-4
         img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/tema1/img08.png', alt='Imagen Decorativa')
         h2.mb-0 Estrategia de codificación del mensaje publicitario 
-      p En este punto, ha llegado el momento de expresar el concepto o idea creativa en textos, sonidos, colores y símbolos. Para lograrlo, es necesario comprender la audiencia y qué tipo de iconos, frases e imágenes pueden generar significado, efectos emotivos y conductuales en ésta. En esta etapa del proceso se le da la forma al mensaje al generar un anuncio dependiendo del medio y soporte en el cual vaya a ser difundido. 
-      p Por ejemplo, si el proyecto será destinado a un medio impreso, se realizan bocetos o maquetas; si se destina a un medio auditivo, se realiza un guión o si se trata de un medio audiovisual, se realiza un 
+      p En este punto, ha llegado el momento de expresar el concepto o idea creativa en textos, sonidos, colores y símbolos. Para lograrlo, es necesario comprender la audiencia y qué tipo de iconos, frases e imágenes pueden generar significado, efectos emotivos y conductuales en esta. En esta etapa del proceso se le da la forma al mensaje al generar un anuncio dependiendo del medio y soporte en el cual vaya a ser difundido. 
+      p Por ejemplo, si el proyecto será destinado a un medio impreso, se realizan bocetos o maquetas; si se destina a un medio auditivo, se realiza un guion o si se trata de un medio audiovisual, se realiza un 
         i storyboard 
-        | o guión gráfico.
+        | o guion gráfico.
       p.mb-5 Esta codificación se desarrolla en un anuncio donde radica la fuerza visual y el 
         i copy 
         | o frase publicitaria. Son responsables directos de la codificación, el director de arte quien traduce la idea creativa en imágenes o audio y el 
@@ -71,8 +71,8 @@
             i thinking, 
             | dibujos o ideas fuera de la zona de confort. La lluvia de ideas es una técnica fundamental que permite explorar múltiples conceptos y enfoques sin restricciones, promoviendo la creatividad y la innovación. Los mapas mentales ayudan a organizar las ideas y visualizar las conexiones entre diferentes elementos del anuncio.
           p Otras técnicas útiles incluyen la elaboración de bocetos y dibujos. El "100 mph 
-            i thinking 
-            | " se refiere a la generación rápida de ideas sin censura, lo que puede llevar a descubrimientos sorprendentes. Finalmente, pensar creativamente anima a explorar enfoques no convencionales, enriqueciendo el proceso creativo y potenciando la efectividad del anuncio. A continuación, se presentan unos bocetos para un medio impreso desarrollado para una campaña de bebidas: 
+            i thinking" 
+            | se refiere a la generación rápida de ideas sin censura, lo que puede llevar a descubrimientos sorprendentes. Finalmente, pensar creativamente anima a explorar enfoques no convencionales, enriqueciendo el proceso creativo y potenciando la efectividad del anuncio. A continuación, se presentan unos bocetos para un medio impreso desarrollado para una campaña de bebidas: 
   
   
       .tarjeta.bg01.p-4.mb-5
@@ -146,12 +146,13 @@
             .tarjeta.color-primario.row.align-items-center.bg03
               .col-lg-9.col-md-8.pt-3.pt-md-0.mb-3.mb-sm-0
                 p.mb-0.text-white 
-                  b La publicidad, el 
+                  b La publicidad, 
+                  | el 
                   i brief, 
                   | la creatividad y el diseño gráfico publicitario. 
               .col-lg-3.col-md-2.mb-3.mb-sm-0.p-2
-                a.boton.color-acento-botones(href="http://es.scribd.com/doc/68381546/Muestra-de-Brief-Creativo-Pepsi-Co#force_seo" target="_blank")
-                  span Enlace
+                a.boton.color-acento-botones(href="downloads/brief.pdf" target="_blank")
+                  span Enlace 
                   i.fas.fa-link
 
   </template>
