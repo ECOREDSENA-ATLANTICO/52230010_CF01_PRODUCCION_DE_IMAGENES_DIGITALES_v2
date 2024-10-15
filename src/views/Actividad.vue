@@ -19,7 +19,7 @@ export default {
         'Imágenes que Comunican estrategias visuales en campañas publicitarias.',
       titulo: 'Cuestionario',
       introduccion:
-        'Lea cada enunciado referente a los temas desarrollados en el componenteformativo y elija una opción según corresponda',
+        'Lea cada enunciado referente a los temas desarrollados en el componente formativo y elija una opción según corresponda',
       barajarPreguntas: false,
       preguntas: [
         {
@@ -123,7 +123,8 @@ export default {
         },
         {
           id: 5,
-          texto: '¿Qué es un briefing en el contexto del diseño de un logo?',
+          texto:
+            '¿Qué es un <i>briefing</i> en el contexto del diseño de un logo?',
           imagen: require('@/assets/curso/actividad/img05.png'),
           barajarRespuestas: false,
           opciones: [
@@ -182,7 +183,11 @@ export default {
           barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: 'Un concepto original.', esCorrecta: true },
-            { id: 'b', texto: 'Una técnica de marketing.', esCorrecta: false },
+            {
+              id: 'b',
+              texto: 'Una técnica de <i>marketing</i>.',
+              esCorrecta: false,
+            },
             { id: 'c', texto: 'Un medio publicitario.', esCorrecta: false },
             { id: 'd', texto: 'Un tipo de campaña.', esCorrecta: false },
           ],

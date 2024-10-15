@@ -39,7 +39,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Briefing',
+        titulo: '<i>Briefing</i>',
         desarrolloContenidos: true,
       },
       {
@@ -197,7 +197,7 @@ export default {
     },
     {
       referencia:
-        'Gómez, David (2013). La psicología del color en marketing (infografía). Consultado el 20 de noviembre de 2014.',
+        'Gómez, David (2013). La psicología del color en <i>marketing</i> (infografía). Consultado el 20 de noviembre de 2014.',
       link: 'http://bienpensado.com/la-psicologia-del-color-en-marketing/',
     },
     {

@@ -87,7 +87,9 @@
         .col-md-12.col-lg-10.mx-auto
           .titulo_sexto.mb-4(data-aos="fade-right")
               h5.mb-0 Figura 2. 
-                span Briefing creativo
+                span 
+                  i Briefing 
+                  | creativo
           figure
             img(src='@/assets/curso/temas/tema2/img03.svg', alt='En el flujo de acciones del briefing creativo están: - El análisis, información oral y escrita, obtenida en briefing publicitario. - Establecimiento de orientación estratégica del mensaje publicitario. - Creación del mensaje publicitario.')
             figcaption Nota, SENA (2014)
