@@ -145,13 +145,9 @@
               img.img-t.m-auto(src='@/assets/curso/temas/tema1/img21.svg', alt='Imagen Decorativa')
             .tarjeta.color-primario.row.align-items-center.bg03
               .col-lg-9.col-md-8.pt-3.pt-md-0.mb-3.mb-sm-0
-                p.mb-0.text-white 
-                  b La publicidad, 
-                  | el 
-                  i brief, 
-                  | la creatividad y el diseño gráfico publicitario. 
+                p.mb-0.text-white El brief como elemento esencial de toda  gestión publicitaria
               .col-lg-3.col-md-2.mb-3.mb-sm-0.p-2
-                a.boton.color-acento-botones(href="downloads/brief.pdf" target="_blank")
+                a.boton.color-acento-botones(href="https://asana.com/es/resources/how-write-creative-brief-examples-template" target="_blank")
                   span Enlace 
                   i.fas.fa-link
 
