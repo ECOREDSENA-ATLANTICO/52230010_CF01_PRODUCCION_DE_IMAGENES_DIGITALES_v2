@@ -138,14 +138,16 @@
       
       .row(data-aos="fade")
         .mx-auto.col-xs-12.col-md-10
-          p.mb-4 Para profundizar en esta temática consulte la presentación:
+          p.mb-4 Para profundizar en esta temática consulte el siguiente enlace:
   
           .tarjeta-avatar-b.mb-5
             .tarjeta-avatar-b__img
               img.img-t.m-auto(src='@/assets/curso/temas/tema1/img21.svg', alt='Imagen Decorativa')
             .tarjeta.color-primario.row.align-items-center.bg03
               .col-lg-9.col-md-8.pt-3.pt-md-0.mb-3.mb-sm-0
-                p.mb-0.text-white El brief como elemento esencial de toda  gestión publicitaria
+                p.mb-0.text-white 
+                  i Brief 
+                  | creativo: qué es y cómo crear uno para optimizar tus procesos creativos.
               .col-lg-3.col-md-2.mb-3.mb-sm-0.p-2
                 a.boton.color-acento-botones(href="https://asana.com/es/resources/how-write-creative-brief-examples-template" target="_blank")
                   span Enlace 
