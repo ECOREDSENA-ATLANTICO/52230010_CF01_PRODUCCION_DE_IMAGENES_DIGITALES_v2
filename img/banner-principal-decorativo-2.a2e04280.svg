@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="58" height="205" viewBox="0 0 58 205">
+  <g id="Grupo_1101419" data-name="Grupo 1101419" transform="translate(11889 11915)">
+    <g id="Grupo_1101300" data-name="Grupo 1101300" transform="translate(-24 70)">
+      <circle id="Elipse_11544" data-name="Elipse 11544" cx="22" cy="22" r="22" transform="translate(-11858 -11831)" fill="#fff"/>
+      <g id="Elipse_11550" data-name="Elipse 11550" transform="translate(-11865 -11838)" fill="none" stroke="#fff" stroke-width="0.5" stroke-dasharray="5">
+        <circle cx="29" cy="29" r="29" stroke="none"/>
+        <circle cx="29" cy="29" r="28.75" fill="none"/>
+      </g>
+      <g id="Grupo_1100449" data-name="Grupo 1100449" transform="translate(-11845.839 -11827.572)">
+        <path id="Trazado_874298" data-name="Trazado 874298" d="M2.077,170.2,9.458,190.92l3.668-8.418,8.911-2.58Z" transform="translate(-2.077 -158.277)" fill="#12263f"/>
+        <text id="_" data-name="+" transform="translate(9.702 13)" fill="#12263f" font-size="12" font-family="Helvetica"><tspan x="0" y="0">+</tspan></text>
+      </g>
+    </g>
+    <ellipse id="Elipse_11605" data-name="Elipse 11605" cx="15" cy="15.5" rx="15" ry="15.5" transform="translate(-11875 -11842)" fill="#0feeff"/>
+    <circle id="Elipse_11604" data-name="Elipse 11604" cx="15" cy="15" r="15" transform="translate(-11875 -11805)" fill="#ceff27"/>
+    <circle id="Elipse_11607" data-name="Elipse 11607" cx="15" cy="15" r="15" transform="translate(-11875 -11915)" fill="#fe80a7"/>
+    <circle id="Elipse_11606" data-name="Elipse 11606" cx="15" cy="15" r="15" transform="translate(-11875 -11878)" fill="#7b40f2"/>
+  </g>
+</svg>
